@@ -1,0 +1,26 @@
+#main_page
+{
+   width:100%;
+   margin:0px;
+   padding:0px;
+}
+
+#icpinfo_div
+{
+ width: 100%;
+ margin:0px;
+ padding:0px;
+ margin-top: 20px;
+ text-align:center;
+}
+
+#icpinfo_div p
+{
+  text-align:center;
+  font-size:small;
+}
+
+#icpinfo_div a
+{
+  text-decoration:none;
+}
